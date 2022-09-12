@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am working as a Software Engineer at Scalereal with 2.8 years of experience in building web applications (using ReactJS, Redux, Typescript & Javascript).I have worked on few backend applications as well (Using NodeJS & ExpressJS).
+I am working as a Software Engineer at Scalereal with 3+ years of experience in building web applications (using ReactJS, Redux, Typescript & Javascript).I have worked on few backend applications as well (Using NodeJS & ExpressJS).
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh9997&layout=compact" />
