@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Prathamesh9997)
+![](https://komarev.com/ghpvc/?username=Prathamesh9997&color=green)
 
 ### Hi there 👋
 
