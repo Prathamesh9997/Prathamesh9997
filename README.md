@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-I am working as a SDE - 2 at Scalereal with 4+ years of experience in building web applications (using ReactJS, Redux, Typescript & Javascript).I have worked on few backend applications as well (Using NodeJS & ExpressJS).
+With 5.6+ years of professional experience, I specialize in frontend development using modern frameworks like React.js, Next.js, and languages like JavaScript and TypeScript. 
+
+My expertise also extends to backend development with Node.js and Nest.js, enabling me to contribute to full-stack projects effectively.  In addition to my technical expertise, I have experience reviewing code, managing teams, mentoring developers.
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh9997&layout=compact" />
