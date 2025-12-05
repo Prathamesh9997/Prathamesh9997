@@ -6,10 +6,6 @@ With 6.5+ years of professional experience, I specialize in frontend development
 
 My expertise also extends to backend development with Node.js and Nest.js, enabling me to contribute to full-stack projects effectively.  In addition to my technical expertise, I have experience reviewing code, managing teams, mentoring developers.
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh9997&layout=compact" />
-</a>
-
 
 **Languages and Tools:**
 
