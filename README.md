@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-With 6.5+ years of professional experience, I specialize in frontend development using modern frameworks like React.js, Next.js, and languages like JavaScript and TypeScript. 
+With 7.1+ years of professional experience, I specialize in frontend development using modern frameworks like React.js, Next.js, and languages like JavaScript and TypeScript. 
 
 My expertise also extends to backend development with Node.js and Nest.js, enabling me to contribute to full-stack projects effectively.  In addition to my technical expertise, I have experience reviewing code, managing teams, mentoring developers.
 
