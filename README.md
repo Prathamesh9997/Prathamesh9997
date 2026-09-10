@@ -19,7 +19,7 @@ My expertise also extends to backend development with Node.js and Nest.js, enabl
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prathamesh9997" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Prathamesh9997" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
 
 <!--
